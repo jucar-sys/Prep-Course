@@ -1,0 +1,7 @@
+for: For es un ciclo que se ejecuta y se repite hasta que se cumpla una condición.
+&&: && significa AND lo que quiere decir que es un operador lógico. AND ayuda a validar mas de una comparación. Este operador valida los datos a comparar y da como
+    resultado un true o un false. AND da True solo cuando todas las comparaciones se cumplen. Si una se cumple y las demas no da un False. Se den de cumplir el 100%
+    de las comparaciones para obtener un True.
+||: || significa OR e igual que AND es un operador lógico. A diferencia de AND, OR retorna un verdadero si alguna de las comparaciones es verdadera. No importando
+    que el resto sea falso.
+!: ! significa negativo u opuesto. Por ejemplo, si le colocas un ! a un valor True, automaticamente lo conviertes en False y viceversa

@@ -1,0 +1,9 @@
+* Variables: Son valores de diferentes tipos (númericos, cadenas de texto, booleanos) los cuales pueden ser cambiados en cualquier momento.
+* Strings: Son variables identificadas como cadenas de texto
+* Funciones (argumentos, return): Las funciones, en programación, son fragmentos de código que sirven para resolver o transformar datos en algo distinto.
+                                  Los argumentos, son los datos que recibe la función. Son con los que trabajará y resolverá o transformará en algo distinto.
+                                  El return es la instrucción que le dice a la función que termine de hacer su trabajo y retorne algo al usuario (un dato o resultado)
+* Declaraciones if: Las declaraciones if son fragmentos de código que te ayudan a comparar datos y que a su vez tengas la oportunidad de tomar una desición de acuerdo
+                    al resultado de la comparación del IF. Si es verdadero hacer esto, si no hacer esto. BAsicamente así funciona.
+* Valores booleanos (true, false): Los valores booleanos son basicamente como un apagador de luz. Si esta encendido es verdadero y si está apagado es falso. Sirven para
+                                       validar datos y saber que desición tomar de acuerdo al resultado.
