@@ -1,0 +1,12 @@
+Objetos: Son conjuntos de datos almacenados en una tipo "lista" donde se tiene una estructura de "llave" "valor". Lo que significa que para acceder a los valores
+         del objeto solo es necesario conocer las llaves y no la posición de los valores dentro del objeto (con el los arreglos). Dichos objetos pueden contener
+         cualquier tipo de dato, desde enteros hasta funciones.
+Propiedades: Son los elementos que contienen los objetos y se puede acceder a ellos con la llave que se le asignó al momento de declarara dicha propiedad dentro
+             del objeto.
+Métodos: Son funciones que se ejecutan dento de un objeto. Los métodos son fragmentos de código que se utilizan para calcular o transformar información que en
+         ocasiones la recibe por medio de argumentos
+Bucle for…in: Es un bucle que se utiliza para recorrer un objeto. La diferencia con la otra sintaxis del bucle for es que aquí no es necesario un indice numérico
+              para saber cuando terminar el recorrido del bucle. Simplemente toma un objeto y lo recorre en su totalidad.
+Notación de puntos vs notación de corchetes: Ambas notaciones sirven para acceder a las propiedades de un objeto. La notación de puntos es literal, debes escribir
+                                             tal cual se llama la propiedadpara poder acceder a ella. La notación de corchetes te da mas flexibilidad a la hora de
+                                             consultar propiedades ya que te permite utilizar variables para hacerlo. Ambas tienen sus ventajas y desventajas.
