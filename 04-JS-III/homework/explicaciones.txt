@@ -1,0 +1,4 @@
+Arrays: Un array es una lista que contiene un conjunto de valores "ordenados" mediante un índice el cual te permite conocer la ubicación 
+        de los elementos que contiene y a su vez te ayuda a acceder a dichos datos. Los array pueden contener distintos tipos de valores 
+        en su matriz (enteros, strings, boleanos, funciones, etc.). La manera más fácil de recorrer un array para buscar o consultar los
+        datos que contiene es mediante un bucle. 
