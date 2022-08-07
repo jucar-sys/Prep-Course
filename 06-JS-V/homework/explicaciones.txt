@@ -1,0 +1,7 @@
+Prototype: Es un conjunto de funciones o métodos que se asignan a cada objeto de manera predeterminada al momento de crearlo. Estás funciones o métodos se pueden invocar
+           con el objeto. Por ejemplo un objeto de tipo Array ya tiene su Prototype el cual incluye funciones para ayudarte a manipular dicho arreglo, por ejemplo, push
+           es una funcion que te permite agregar elementos al array, y esta función está declarada en el prototype del objeto sin que el usuario la haya agregado al
+           momento de la creación del array. A su vez el usuario puede agregar funciones personalizadas al prototype para utilizarlas en sus objetos.
+Constructors (de Clases): Un constructor es una función que nos permite eficientar la creación de objetos. Nos ayuda a disminuir el riesgo de equivocarnos en los nombres
+                          de las propiedades y además nos permite tener un mejor control de nuestros objetos pero sobre todo una mejor administración a la hora de crear y
+                          de modificar ciertas cosas. También nos ayuda a crear prototype's de nuestros objetos.
