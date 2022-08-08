@@ -1,3 +1,15 @@
+body{
+    background-image: url("https://media.istockphoto.com/videos/soft-white-background-video-id1132439239?b=1&k=20&m=1132439239&s=640x640&h=9qTQn4FfcFcaDQtSafEPfQlaNMet0fevWWqUzyAENMI=");
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
 h1{
     color: midnightblue;
 }
