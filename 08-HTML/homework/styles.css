@@ -9,6 +9,9 @@ div{
     max-width: 600px;
     margin: 0 auto;
 }
+span{
+    font-weight: bold;
+}
 
 h1{
     color: midnightblue;
@@ -26,6 +29,7 @@ img{
 }
 
 #spanId{
+    font-weight: 400;
     font-size: 18px;
     margin: 50px;
 }
